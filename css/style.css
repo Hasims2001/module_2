@@ -1,0 +1,222 @@
+body{
+	  font-family: Garamond;
+
+}
+
+@media (min-width: 992px){
+	#one{
+
+	border: 1px solid black;
+	background-color: #FF69B4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#two{
+
+	border: 1px solid black;
+	background-color: red;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#three{
+
+	border: 1px solid black;
+	background-color: #FFE4C4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+section{
+	border: 1px solid black;
+	background-color: #6495ED;
+	padding-top: 30px;
+	padding-left: 10px;
+	
+
+}
+h1{
+	text-align: center;
+	margin-top: 2%;
+}
+.chick{
+	top: 15%;
+	position: absolute;
+	margin-left: 3%;
+	width: 30%;
+}
+
+.be{
+	top: 15%;
+	position: absolute;
+	margin-left: 35%;
+	width: 30%;
+
+
+}
+.su{
+	top: 15%;
+	position: absolute;
+	margin-left: 68%;
+	width: 30%;
+
+
+}
+
+}
+@media (min-width: 768px) and (max-width: 991px){
+	#one{
+
+	border: 1px solid black;
+	background-color: #FF69B4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#two{
+
+	border: 1px solid black;
+	background-color: red;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#three{
+
+	border: 1px solid black;
+	background-color: #FFE4C4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+section{
+	border: 1px solid black;
+	background-color: #6495ED;
+	padding-top: 30px;
+	padding-left: 10px;
+	
+
+}
+h1{
+	text-align: center;
+	margin-top: 2%;
+}
+.chick{
+	top: 15%;
+	position: absolute;
+	margin-left: 3%;
+	width: 45%;
+}
+
+.be{
+	top: 15%;
+	position: absolute;
+	margin-left: 50%;
+	width: 45%;
+
+
+}
+.su{
+	top: 55%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 94%;
+
+
+}
+}
+@media (max-width: 767px){
+	#one{
+
+	border: 1px solid black;
+	background-color: #FF69B4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#two{
+
+	border: 1px solid black;
+	background-color: red;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+#three{
+
+	border: 1px solid black;
+	background-color: #FFE4C4;
+	float: right;
+	width: 25%;
+	font-size: 100%;
+	text-align: center;
+	
+
+}
+section{
+	border: 1px solid black;
+	background-color: #6495ED;
+	padding-top: 30px;
+	padding-left: 10px;
+	
+
+}
+h1{
+	text-align: center;
+	margin-top: 2%;
+}
+.chick{
+	top: 15%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 94%;
+}
+
+.be{
+	top: 45%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+	width: 94%;
+
+
+}
+.su{
+	top: 75%;
+	position: absolute;
+	margin-left: 3%;
+	margin-right: 3%;
+
+	width: 94%;
+
+
+}
+
+}
